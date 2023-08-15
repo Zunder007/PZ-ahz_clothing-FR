@@ -1,0 +1,23 @@
+ItemName_FR {
+	ItemName_Base.ahzfitnesssocks = "Bas de compression Fitness",
+	ItemName_Base.ahzfitnessarms = "Manches de compression Fitness",
+	ItemName_Base.ahzfitnesspants = "Sous-vêtements de compression Fitness",
+	ItemName_Base.ahzfitnessbra = "Soutien-gorge de compression Fitness",
+	ItemName_Base.ahzuwhighwaist_t = "Sous-vêtements taille haute",
+	ItemName_Base.ahzuwtightsshort = "Collants courts",
+	ItemName_Base.ahztoplongsleeve = "Croptop à manches longues",
+	ItemName_Base.ahztoplongsleevecut = "Croptop coupé à manches longues",
+
+	ItemName_Base.ahzshortpleatedskirt = "Jupe courte plissée",
+	ItemName_Base.ahzshortpleatedskirt_close = "Jupe courte plissée (Serré)",
+	ItemName_Base.ahzshortpleatedskirt_t = "Jupe courte plissée (T)",
+	ItemName_Base.ahzshortpleatedskirt_t_close = "Jupe courte plissée (T) (Serré)",
+	ItemName_Base.ahzshortpleatedskirt_t_plaid1 = "Jupe courte plissée à carreaux (T)",
+	ItemName_Base.ahzshortpleatedskirt_t_plaid1_close = "Jupe courte plissée à carreaux (T) (Serré)",
+	ItemName_Base.ahzshortpleatedskirt_t_plaid2 = "Jupe courte plissée à carreaux (T)",
+	ItemName_Base.ahzshortpleatedskirt_t_plaid2_close = "Jupe courte plissée à carreaux (T) (Serré)",
+	ItemName_Base.ahzpleatedminiskirt = "Minijupe plissée",
+	ItemName_Base.ahzpleatedminiskirt_t = "Minijupe plissée (T)",
+	ItemName_Base.ahzpleatedminiskirt_t_plaid1 = "Minijupe plissée à carreaux (T)",
+	ItemName_Base.ahzpleatedminiskirt_t_plaid2 = "Minijupe plissée à carreaux (T)",
+}
