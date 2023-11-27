@@ -1,0 +1,12 @@
+ContextMenu_FR = {
+	ContextMenu_ahzshortpleatedskirt_close = "Serrer la jupe",
+	ContextMenu_ahzshortpleatedskirt = "Desserrer la jupe",
+	ContextMenu_ahzshortpleatedskirt_t_close = "Serrer la jupe",
+	ContextMenu_ahzshortpleatedskirt_t = "Desserrer la jupe",
+	ContextMenu_ahzshortpleatedskirt_t_plaid1_close = "Serrer la jupe",
+	ContextMenu_ahzshortpleatedskirt_t_plaid1 = "Desserrer la jupe",
+	ContextMenu_ahzshortpleatedskirt_t_plaid2_close = "Serrer la jupe",
+	ContextMenu_ahzshortpleatedskirt_t_plaid2 = "Desserrer la jupe",
+	ContextMenu_Tighten Skirt = "Serrer la jupe",
+	ContextMenu_Loosen Skirt = "Desserrer la jupe",
+}
